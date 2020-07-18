@@ -1,3 +1,5 @@
+<img src="https://github.com/aksagarwal42/aksagarwal42/blob/master/image2.jpg"></img>
+
 ### Hi there 👋
 
 I am Akshat Agarwal, a guy who is fascinated by almost anything new happening in the technological world. I am proficient in Python, C and C++ while I have a keen affinity towards Machine Learning and Deep Learning. I like to get my hands dirty with projects to have a greater understanding of things. I'm pursuing my BTech in CSE from Heritage Institute of Technology.
